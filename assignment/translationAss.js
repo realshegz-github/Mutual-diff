@@ -123,8 +123,6 @@
 //     "sound" : "/ j /",
 //     "pronunciation" : "yi"
 // }]
-
-
 // let count = 5
 // let multipleOfFive = setInterval(()=> {
 //     console.log(count); 
